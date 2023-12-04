@@ -13,6 +13,7 @@ I bring more than just technical skills to the table. I'm a dedicated, punctual,
 - Instagram - [jekkuper](https://instagram.com/jekkuper)
 - Telegram - [jekuper](https://t.me/jekuper)
 - Itch.io -  [jekuper](https://jekuper.itch.io/)
+- jekkyper1121@gmail.com
 
 <!--
 **jekuper/jekuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
