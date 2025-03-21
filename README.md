@@ -1,5 +1,5 @@
 ## About Me
-I'm an enthusiastic 17-year-old currently pursuing my education at Indiana State University in the United States. My fervor for technology and gaming has been a driving force in my life. With four years of hands-on experience in the world of indie game development, I've immersed myself in the intricate workings of video games. Among the countless titles I've explored, "Half-Life" holds a special place in my heart due to its groundbreaking ideas, especially considering the era in which it was conceived.
+I'm an enthusiastic 19-year-old currently pursuing my education at Pace University in the United States. My fervor for technology and gaming has been a driving force in my life. With four years of hands-on experience in the world of indie game development, I've immersed myself in the intricate workings of video games. Among the countless titles I've explored, "Half-Life" holds a special place in my heart due to its groundbreaking ideas, especially considering the era in which it was conceived.
 
 ## Skills
 - Game Development: Proficient in Unity3D, C#, and C++, with a deep understanding of video game mechanics and technology. Have several multiplayer based projects
