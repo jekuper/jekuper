@@ -10,10 +10,9 @@ I'm an enthusiastic 19-year-old currently pursuing my education at Pace Universi
 ## Why Choose Me?
 I bring more than just technical skills to the table. I'm a dedicated, punctual, and professional worker who places a high value on code quality and readability. With my diverse skill set and commitment to excellence, I am ready to make a valuable contribution to your team.
 ## Contacts
-- Instagram - [jekkuper](https://instagram.com/jekkuper)
 - Telegram - [jekuper](https://t.me/jekuper)
 - Itch.io -  [jekuper](https://jekuper.itch.io/)
-- jekkyper1121@gmail.com
+- joesharipov@gmail.com
 
 <!--
 **jekuper/jekuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
